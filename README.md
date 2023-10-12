@@ -13,5 +13,5 @@ Obs.: não utilizar os símbolos "<" nem ">" na hora de especificar o nome. Util
   * ./hide <imagem_a_ser_escondida>.ppm <imagem_onde_esta_será_escondida>.ppm <nome_do_novo_arquivo_com_a_imagem_escondida>.ppm
 
 * Para recuperar uma imagem escondida:
-  * ./hide <imagem>.ppm
+  * ./hide <imagem_dec>.ppm
 
