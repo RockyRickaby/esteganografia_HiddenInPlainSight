@@ -1,7 +1,7 @@
 # esteganografia_HiddenInPlainSight
 
-Trabalho de Programação de Baixo Nível do curso de Ciência da Computação da PUCRS
-Para compilar o projeto, basta executar o "make" no terminal
+Trabalho de Programação de Baixo Nível do curso de Ciência da Computação da PUCRS.
+Para compilar o projeto, basta executar o "make" no terminal.
 
 Este programa esconde uma imagem dentro de outra imagem (se a imagem a ser escondida tiver
 até 1/4 do tamanho da outra). Este programa funciona apenas com imagens no formato PPM, formato esse
